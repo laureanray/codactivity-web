@@ -1,10 +1,10 @@
-package tech.laureanray.codeactivitybackend;
+package tech.laureanray.codactivitybackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CodeactivityBackendApplicationTests {
+class CodactivityBackendApplicationTests {
 
     @Test
     void contextLoads() {
